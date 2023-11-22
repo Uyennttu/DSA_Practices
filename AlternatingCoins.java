@@ -35,4 +35,4 @@ public class AlternatingCoins {
 		return Math.min(count0, count1);
 	}
 
-}
+}//On
