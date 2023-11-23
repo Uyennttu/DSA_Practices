@@ -15,7 +15,5 @@ public class MaxProfit {
 			maxProfit = Math.max(maxProfit, A[i] - minPrice);
 		}
 		return maxProfit;
-
 	}
-
-}
+}//On
